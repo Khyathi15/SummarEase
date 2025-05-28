@@ -1,8 +1,8 @@
-📄 SummerEase – PPT Summarizer & Narrator using PyQt
+## 📄 SummerEase – PPT Summarizer & Narrator using PyQt
 
 SummerEase is an intelligent and user-friendly desktop application that allows users to upload PowerPoint presentations, automatically generate summaries, and narrate the content using text-to-speech. The interface is built with PyQt, ensuring a smooth and intuitive user experience.
 
-✨ Features
+## ✨ Features
 
 📤 Upload .pptx files
 
@@ -13,7 +13,7 @@ SummerEase is an intelligent and user-friendly desktop application that allows u
 🖥️ Clean and responsive PyQt-based GUI
 
 
-🧪 Example Use Case
+## 🧪 Example Use Case
 
 - Launch the application.
 
@@ -25,17 +25,15 @@ SummerEase is an intelligent and user-friendly desktop application that allows u
 
 - Save summaries if desired.
 
-⚠️ Limitations
+## ⚠️ Limitations
 
 - Currently supports limited number of slides per presentation
 
 - Working on expanding to handle larger and more complex files
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions, feature requests, and bug reports are welcome! Please fork the repository and create a pull request.
 
 
-🙋‍♀️ About the Author
-
-Developed with ❤️ by Kat – 3rd Year Electronics Engineering (VLSI)
+Made with ❤️ by Kat | VLSI Enthusiast & Builder
